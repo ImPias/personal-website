@@ -1,0 +1,114 @@
+body{
+    margin: 0;
+}
+h1{
+    font-size: 50px;
+}
+p{
+    color: dimgray;
+    font-size: 18px;
+    text-align: justify;
+}
+section{
+    height: 700px;
+}
+.intro-area{
+    background-image: url("images/header-bg.png");
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+.tomato-highlight{
+    color: #ff448f;
+    font-size: 60px;
+}
+.half-width{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding: 2.5%;
+}
+.half-width img{
+    width: 100%;
+}
+.link-button{
+    text-decoration: none;
+    padding: 10px 20px;
+    background-image: linear-gradient(to right, #ff448f, #ff1872);
+    color: white;
+    font-weight: 700;
+    border-radius: 5px;
+}
+.biography{
+    background-image: url("images/biography-bg.png");
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+#bio-img{
+    height: 650px;
+}
+#bio-text{
+    margin-top: 100px;
+}
+.latest-work-area{
+    background-image: url("images/latest-work-bg.png");
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+.latest-work-header{
+    margin-top: 100px;
+    text-align: center;
+}
+.works{
+    margin: 5%;
+}
+.works img{
+    width: 29%;
+    padding: 2%;
+}
+.footer{
+    background-image: url("images/footer-bg.png");
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+.footer h1{
+    text-align: center;
+}
+.footer h2{
+    text-align: center;
+    /* margin-top: 80px; */
+}
+.footer h3{
+    text-align: center;
+    color: gray;
+    font-size: 18px;
+}
+.footer p{
+    text-align: center;
+    margin: 50px 20%;
+    color: black;
+}
+.footer img{
+    height: 150px;
+    width: 150px;
+    margin: 0 45%;
+}
+.leave-meassage{
+    height: 150px;
+    width: 600px;
+    background-image: linear-gradient(to right, #ff448f, #ff1872);
+    margin: 0 auto;
+    border-radius: 10px;
+}
+.leave-meassage p{
+    color: white;
+    padding-top: 30px;
+}
+.leave-meassage h2{
+    color: white;
+    font-weight: 500;
+    margin-top: -25px;
+}
+footer p{
+    text-align: center;
+    font-size: 12px;
+}
