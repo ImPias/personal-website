@@ -75,7 +75,6 @@ section{
 }
 .footer h2{
     text-align: center;
-    /* margin-top: 80px; */
 }
 .footer h3{
     text-align: center;
@@ -86,11 +85,6 @@ section{
     text-align: center;
     margin: 50px 20%;
     color: black;
-}
-.footer img{
-    height: 150px;
-    width: 150px;
-    margin: 0 45%;
 }
 .leave-meassage{
     height: 150px;
